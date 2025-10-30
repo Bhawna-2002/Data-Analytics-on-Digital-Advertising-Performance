@@ -80,6 +80,17 @@ Here’s an overview of the visual analysis (from `ivt_analysis_plots.pdf`):
 
 ---
 
+---
+
+## 👩‍💻 **About the Author**
+
+**Bhawna Singh**  
+🎓 *Aspiring Data Analyst | Power BI | SQL | Python | Data Visualization*  
+📧 *bhawnasingh062002@gmail.com*
+
+---
+
+<p align="center">⭐ If you like this project, don’t forget to star the repository!</p>
 ## 🚀 **How to Run This Project**
 
 1. **Clone this repository**
