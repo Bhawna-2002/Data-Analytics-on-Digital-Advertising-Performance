@@ -80,6 +80,12 @@ Here’s an overview of the visual analysis (from `ivt_analysis_plots.pdf`):
 
 ---
 
+
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/Bhawna-2002/Data-Analytics-on-Digital-Advertising-Performance.git
+
+
 ---
 
 ## 👩‍💻 **About the Author**
@@ -91,8 +97,4 @@ Here’s an overview of the visual analysis (from `ivt_analysis_plots.pdf`):
 ---
 
 <p align="center">⭐ If you like this project, don’t forget to star the repository!</p>
-## 🚀 **How to Run This Project**
 
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/Bhawna-2002/Data-Analytics-on-Digital-Advertising-Performance.git
